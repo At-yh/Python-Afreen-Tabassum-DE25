@@ -1,6 +1,6 @@
-# Loops are used to repeat instructions.
-while True:
-    print("hello")  # it will print infinetly
+# # Loops are used to repeat instructions.
+# while True:
+#     print("hello")  # it will print infinetly
 
 count = 1
 while count <= 5:

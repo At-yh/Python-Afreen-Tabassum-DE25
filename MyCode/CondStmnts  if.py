@@ -1,16 +1,16 @@
-# number = 50
-# if not number % 2:
-#     print("Even number")
-# else:
-#     print("Odd number")
+number = 50
+if not number % 2:
+    print("Even number")
+else:
+    print("Odd number")
 
-# # Name legnth
-# name = input("enter your name : ")
-# print("legnth of your name is" , len(name))
+# Name legnth
+name = input("enter your name : ")
+print("legnth of your name is" , len(name))
 
-# # Find the occurance of $ in a string
-# str = "Hi, Iam the $ symbol 99.9$"
-# print(str.count("$"))
+# Find the occurance of $ in a string
+str = "Hi, Iam the $ symbol 99.9$"
+print(str.count("$"))
 
 ## CONDITIONAL STATEMENTS      IF , ELIF , ELSE
 age = 21
